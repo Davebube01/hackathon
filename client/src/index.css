@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hack{
+    background: url('assets/hackathon.png');
+}
